@@ -1,4 +1,4 @@
-# Josue Andujar — DesignPerex
+# Josue Perez Andujar — DesignPerex
 
 UX Designer specializing in voice AI, conversation design, and trust-first product experiences.
 
